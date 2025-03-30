@@ -6,7 +6,7 @@
 
 
 # Mi mapa 🗺
-El mapa no es el territorio, uno de los principios del [[300 - 🧠 MODELOS MENTALES/MM PNL\|MM PNL]]. El territorio es la realidad externa, la que jamás veremos y la interpretación subjetiva de la misma que realizamos cada uno de nosotros, los modelos mentales es el mapa.
+El mapa no es el territorio, uno de los principios del [[MM PNL\|MM PNL]]. El territorio es la realidad externa, la que jamás veremos y la interpretación subjetiva de la misma que realizamos cada uno de nosotros, los modelos mentales es el mapa.
 
 000 = Mis lugares
 001 = Mis cuartos, centralizadores de objetos
@@ -49,16 +49,16 @@ Por qué nunca digo no tengo tiempo, sino no es mi prioridad.
 
 Un Cerebro Digital sigue la filosofía Kaizen, cada nota es el interés compuesto de nuestro conocimiento y sabiduría. Es nuestra mejora continua, poco a poco.
 
-[[300 - 🧠 MODELOS MENTALES/MM Kaizen filosofía\|MM Kaizen filosofía]]
+[[MM Kaizen filosofía\|MM Kaizen filosofía]]
 
 Analogía entre la constancia y el bambú y por qué me ayuda a entenderla
-[[300 - 🧠 MODELOS MENTALES/MM Constancia y el crecimiento bambú\|MM Constancia y el crecimiento bambú]]
+[[MM Constancia y el crecimiento bambú\|MM Constancia y el crecimiento bambú]]
 
 Resto de ejemplos de tu sabiduría (modelos mentales) para ir rellenando:
-[[300 - 🧠 MODELOS MENTALES/MM Desarrollo Personal\|MM Desarrollo Personal]]
-[[300 - 🧠 MODELOS MENTALES/MM Perfeccionismo\|MM Perfeccionismo]]
-[[300 - 🧠 MODELOS MENTALES/MM PNL\|MM PNL]]
-[[300 - 🧠 MODELOS MENTALES/MM Aprendizaje\|MM Aprendizaje]]
+[[MM Desarrollo Personal\|MM Desarrollo Personal]]
+[[MM Perfeccionismo\|MM Perfeccionismo]]
+[[MM PNL\|MM PNL]]
+[[MM Aprendizaje\|MM Aprendizaje]]
 
 ### Mi zona relax
 Así me relajo [[200 - 🌍 MEMORIA DIGITAL/272 - 🌅 RELAX/000 Relax\|000 Relax]]
@@ -82,6 +82,6 @@ Histórico e información de mis finanzas
 ## Accesos directos frecuentes
 Añade aquí las notas más frecuentes. Por ejemplo, una receta que uses mucho, los datos de....
 
-[[200 - 🌍 MEMORIA DIGITAL/221 - 🥙NUTRICIÓN/RECETA Bizcocho de limón\|RECETA Bizcocho de limón]]
+[[RECETA Bizcocho de limón\|RECETA Bizcocho de limón]]
 
 ---
