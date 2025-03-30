@@ -38,7 +38,7 @@ Donde reflexiono y tomo decisiones: [[Phone obsidian/000 Mi zettelkasten\|Mi cer
 
 [[200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/000 Construye tu CEREBRO DIGITAL\|000 Construye tu CEREBRO DIGITAL]]
 
-![jardín zen.png|600](/img/user/300%20-%20%F0%9F%A7%A0%20MODELOS%20MENTALES/ANEXOS/jard%C3%ADn%20zen.png)
+
 
 ### Mis modelos mentales, mi sabiduría
 
@@ -63,14 +63,14 @@ Resto de ejemplos de tu sabiduría (modelos mentales) para ir rellenando:
 ### Mi zona relax
 Así me relajo [[200 - 🌍 MEMORIA DIGITAL/272 - 🌅 RELAX/000 Relax\|000 Relax]]
 
-![furgo.png|600](/img/user/300%20-%20%F0%9F%A7%A0%20MODELOS%20MENTALES/ANEXOS/furgo.png)
+
 
 
 ### 🥗Nutrición - Restaurante Salud
 Mis recetas y consejos
 [[200 - 🌍 MEMORIA DIGITAL/221 - 🥙NUTRICIÓN/000 Nutrición\|000 Nutrición]]
 
-![comer sano.png|600](/img/user/300%20-%20%F0%9F%A7%A0%20MODELOS%20MENTALES/ANEXOS/comer%20sano.png)
+
 
 ### 🏛Finanzas - Banco
 Histórico e información de mis finanzas
